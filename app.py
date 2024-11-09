@@ -93,4 +93,6 @@ async def generate_answer():
 
 # Run the Flask app
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Set the port dynamically with a default value for local testing
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
