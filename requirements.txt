@@ -1,9 +1,0 @@
-Flask
-flask-cors
-requests
-transformers
-torch  # Required by transformers for model usage
-dotenv  # For loading environment variables
-logging  #to log errors and important events
-asyncio 
-re
