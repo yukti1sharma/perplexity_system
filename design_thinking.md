@@ -9,7 +9,7 @@
 1. Slower response time
 2. Certain complex or specialized questions did not yield highly accurate or satisfying responses.
 
-## Areas for future improvemetn  
-1. Enhancing response speed -
-2. Improving Response Accuracy and Contextual Understanding -
+## Areas for future improvement  
+1. Enhancing response speed - 
+2. Improving Response Accuracy and Contextual Understanding - 
 3. Potential for Follow-Up Questions - 
