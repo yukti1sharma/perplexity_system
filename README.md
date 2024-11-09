@@ -46,10 +46,10 @@ Local Deployment :
 
 ## Design decisions
 
-- Backend Framework - Chose Flask for simplicity and lightweight performance.
-- Frontend Structure - Used HTML/CSS/JS for a simple, accessible interface. 
-- Language Model - Hugging Face as it offers a variety of pre-trained transformer models that are freely accessible and open-source. 
-- Search API  - Google Custom Search API as it uses Google’s search engine, which is often more familiar for users.
+1. Backend Framework - Chose Flask for simplicity and lightweight performance.
+2. Frontend Structure - Used HTML/CSS/JS for a simple, accessible interface. 
+3. Language Model - Hugging Face as it offers a variety of pre-trained transformer models that are freely accessible and open-source. 
+4. Search API  - Google Custom Search API as it uses Google’s search engine, which is often more familiar for users.
 
 
 ## Challenges 
