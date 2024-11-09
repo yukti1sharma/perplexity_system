@@ -33,15 +33,15 @@ Local Deployment :
 
  Input a query - Users can type a question into the input box and click "Go" to fetch an answer.
    
- <img width="1433" alt="image" src="https://github.com/user-attachments/assets/618b4650-3457-4a78-b064-ed0f1fd9842c">
+ <img width="700" alt="image" src="https://github.com/user-attachments/assets/618b4650-3457-4a78-b064-ed0f1fd9842c" />
 
 
    #### Example interactions -
    
-  <img width="1198" alt="image" src="https://github.com/user-attachments/assets/1de67719-d151-48cc-9b47-7a8eec496a5b">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/1de67719-d151-48cc-9b47-7a8eec496a5b" />
 
 
-  <img width="1190" alt="image" src="https://github.com/user-attachments/assets/cbd824be-8e04-4ea9-a000-d6e891a19829">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/cbd824be-8e04-4ea9-a000-d6e891a19829" />
 
 
 ## Design decisions
