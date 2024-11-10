@@ -35,7 +35,7 @@ Local Deployment :
    
  <img width="600" alt="image" src="https://github.com/user-attachments/assets/618b4650-3457-4a78-b064-ed0f1fd9842c" />
 
- To run the app locally on http://127.0.0.1:5000, run python -m flask --app app run on the terminal. It will show something like this 
+ To run the app locally on http://127.0.0.1:5000, run "python -m flask --app app run" on the terminal. It will show something like this 
 
  <img width="700" alt="image" src="https://github.com/user-attachments/assets/b16ed442-22b9-47ab-9ced-a9736668eef8">
 
