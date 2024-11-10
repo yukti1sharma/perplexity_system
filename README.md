@@ -21,13 +21,11 @@ Required softwares - Python, Flask, HTML, CSS and JavaScript
 - Start the Flask server using python app.py.
 - Open index.html to access the frontend.
 
-### Deployment steps and and Access Details 
+### Deployment steps and Access Details 
 Local Deployment : 
   - Run the backend on http://127.0.0.1:5000/ 
   - Access the frontend via your browser
-
-### Cloud Deployment 
-
+ 
 
 ## Usage Guidelines and and Example Interactions 
 
